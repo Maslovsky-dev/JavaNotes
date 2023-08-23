@@ -1,0 +1,27 @@
+name: Update Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Create SSH directory
+      run: mkdir -p ~/.ssh
+
+    - name: Configure SSH
+      run: |
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H ${{ secrets.REMOTE_SERVER_IP }} >> ~/.ssh/known_hosts
+
+    - name: Update server
+      run: |
+        ssh root@${{ secrets.REMOTE_SERVER_IP }} "cd /root/quartz/JavaNotes && git pull origin main"

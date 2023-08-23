@@ -1,0 +1,5 @@
+# Игнорирование директорий
+.obsidian/
+.trash/
+private/
+textgenerator/
