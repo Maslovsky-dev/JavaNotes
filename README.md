@@ -49,8 +49,8 @@
         - [Агрегатные функции](notes/Агрегатные%20функции.md)
         - [Подзапросы](notes/Подзапросы.md)
     - [Транзакции принцип ACID](notes/Транзакции%20принцип%20ACID.md)
-    - [Индексы SQL](notes/Индексы SQL.md)
-    - [INNER JOIN], [OUTER JOIN](notes/INNER%20JOIN,%20OUTER%20JOIN.md)
+    - [Индексы SQL](notes/Индексы%20SQL.md)
+    - [INNER JOIN](notes/INNER%20JOIN), [OUTER JOIN](notes/OUTER%20JOIN.md)
     - [SQL оценка производительности](notes/SQL%20оценка%20производительности.md)
 
 ## Hibernate
@@ -92,7 +92,10 @@
 
 ## Вдохновение 
  - [Nicole van der Hoeven](https://nicolevanderhoeven.com/)  [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
+	 
  - [Snailclimb](https://github.com/Snailclimb)  [JavaGuide](https://javaguide.cn/)
+	 
  - [winterbe](https://github.com/winterbe)  https://winterbe.com/
+	 
 
 
