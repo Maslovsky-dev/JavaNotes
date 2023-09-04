@@ -6,10 +6,11 @@ title: Содержание
 - [[Основы ООП]]
 	- [[Ассоциация агрегация композиция]]
 	- [[Принципы SOLID]]
+	- [[Абстрактные классы]] [[Интерфейсы Java]]
 
 - [[Java Core]]
 	- [[Классы Java]]
-	- [[Collection]]
+	- [[Collection]], [[Коллекции]]
 	- [[Обобщения generics]]
 		- [[Обобщения generics#Принцип PECS|Принцип PECS]]
 	- [[Stream API]]
@@ -36,7 +37,9 @@ title: Содержание
 	- [[Транзакции принцип ACID]]
 	- [[Индексы SQL]]
 	- [[INNER JOIN]], [[OUTER JOIN]]
-	- [[SQL оценка производительности]]
+	- [[SQL оценка производительности]] 
+	- [[SQL запросы VS Hibernate]]
+
 
 ## Hibernate
 
@@ -49,6 +52,7 @@ title: Содержание
 		- [[Entity Graph]]
 	- [[Cтратегии маппинга иерархии наследования Inheritance Mapping Strategies в JPA]]
 	- [[Criteria API]]
+	- [[Анализ производительности ORM систем]]
 ## Spring
 
 - [[Spring]]
