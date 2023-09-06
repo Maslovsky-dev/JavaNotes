@@ -15,6 +15,9 @@
 Более того, ты можешь помочь проекту, если поделишься своим видением гайда по Java разработке через GitHub.
 Считайте это экспериментом по [“Learning in public”](https://notes.nicolevanderhoeven.com/Learning+in+public).
 
+## Как скачать к себе базу?
+[JavaNotes: Как скачать к себе базу знаний о Java в Obsidian? - YouTube](https://youtu.be/PYuZHExfuSk)
+
 # Краткое содержание
 ## Java Core
 
