@@ -71,6 +71,6 @@ tags: SQL
 
 
 ## Источники
-1. Петрова А. Н., Калмыков И. Н. Исследование рекомендаций по устранению причин неэффективности запросов таблицам базы данных // Вестник евразийской науки. 2016. № 3 (8). C. 137.
-2. Третьяков И. А., Кожекина Е. Н., Журавлёв И. В. Оптимизация SQL-запросов // Вестник Донецкого национального университета. Серия Г: Технические науки. 2021. № 2. C. 39–49.
-3. Corlăţan C. G. [и др.]. Query Optimization Techniques in Microsoft SQL Server. // Database Systems Journal. 2014. № 2 (5).
+1. [Петрова А. Н., Калмыков И. Н. Исследование рекомендаций по устранению причин неэффективности запросов таблицам базы данных // Вестник евразийской науки. 2016. № 3 (8). C. 137.](https://cyberleninka.ru/article/n/issledovanie-rekomendatsiy-po-ustraneniyu-prichin-neeffektivnosti-zaprosov-tablitsam-bazy-dannyh)
+2. [Третьяков И. А., Кожекина Е. Н., Журавлёв И. В. Оптимизация SQL-запросов // Вестник Донецкого национального университета. Серия Г: Технические науки. 2021. № 2. C. 39–49.](https://elibrary.ru/item.asp?id=46179212)
+3. [Corlăţan C. G. [и др.]. Query Optimization Techniques in Microsoft SQL Server. // Database Systems Journal. 2014. № 2 (5).](http://dbjournal.ro/archive/16/16_4.pdf)
