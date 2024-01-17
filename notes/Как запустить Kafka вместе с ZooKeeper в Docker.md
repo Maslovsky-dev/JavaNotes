@@ -5,6 +5,10 @@ tags: Kafka
 
 В качестве простого примера используем репозиторий gitHub с готовыми настройками для запуска Kafka вместе с zooKeeper
 
+Выполняем команду git clone https://github.com/conduktor/kafka-stack-docker-compose
+
+Переходим в папку `kafka-stack-docker-compose`
+
 В папке `kafka-stack-docker-compose` выполняем команду 
 `docker-compose -f zk-single-kafka-single.yml up -d`
 
@@ -17,6 +21,5 @@ tags: Kafka
 Или открыть docker desctop нажать на 3 точки рядом с контейнером kafka и нажать open terminal.
 В терминале команда чтения из топика будет выглядеть так
 `kafka-console-consumer --topic firstTopic --from-beginning --bootstrap-server localhost:9092`
-
 
 [[Команды Kafka]]
